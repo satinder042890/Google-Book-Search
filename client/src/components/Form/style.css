@@ -1,0 +1,19 @@
+.btn-primary{
+    
+    background: rgb(6, 71, 65);
+    color: white;
+    margin-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+   
+}  
+.form-control{
+    border:2px solid teal;
+    padding: 1%;
+    margin:1%;
+    width:94%;
+}
+.form-group{
+    border:5px solid rgb(6, 71, 65);
+    margin-top: 1%;
+}
